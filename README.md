@@ -1,6 +1,7 @@
 # todolens-lite README
 
 This is the README for your extension "todolens-lite". After writing up a brief description, we recommend including the following sections.
+Blog Link: https://medium.com/@johirbuet/build-your-first-useful-vs-code-extension-a-todo-tracker-with-typescript-4df147b6aae8
 
 ## Features
 
